@@ -4,11 +4,11 @@
   "description": "Telegram Mini App for creating quests",
   "main": "index.html",
   "scripts": {
-    "dev": "serve .",
-    "build": "echo 'No build process needed'"
+    "dev": "serve . -p 3000",
+    "build": "echo 'No build process needed for static site'"
   },
-  "dependencies": {
+  "dependencies": {},
+  "devDependencies": {
     "serve": "^14.2.0"
-  },
-  "devDependencies": {}
+  }
 }
