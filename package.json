@@ -1,0 +1,14 @@
+{
+  "name": "quest-miniapp",
+  "version": "1.0.0",
+  "description": "Telegram Mini App for creating quests",
+  "main": "index.html",
+  "scripts": {
+    "dev": "serve .",
+    "build": "echo 'No build process needed'"
+  },
+  "dependencies": {
+    "serve": "^14.2.0"
+  },
+  "devDependencies": {}
+}
